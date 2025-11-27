@@ -2,16 +2,12 @@ body {
   margin: 0;
   padding: 0;
 
-  background-image: url("landing-pic.jpeg");
+  background-image: url("second.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 100vh;
 }
-
-
-
-
 
 .landing-page-container {
   display: flex;
